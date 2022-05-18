@@ -1,0 +1,36 @@
+body{
+    background-color: #666;
+}
+
+#gen{
+    width: 40%;
+    margin-top:5rem;
+    margin-left:30%;
+    margin-right:30%;
+    border-radius: 1rem;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    overflow: hidden;
+    padding:1rem 1rem 1rem 1rem;
+}
+
+#password{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 2rem;
+    width: 60%;
+}
+
+#settings{
+    border: black 2px solid;
+    border-radius: 1rem;
+    justify-content: space-between;
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+#generate{
+    margin-left:30%;
+    margin-right: 30%;
+    width: 40%;
+    margin-top: 2rem;
+}
